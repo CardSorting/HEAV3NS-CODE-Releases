@@ -1,0 +1,29 @@
+=======================================================================
+HEAV3NS / LUMI-JOY
+Copyright (c) 2026 William Andrew Cruz (bozoegg / CardSorting)
+and LUMI-JOY contributors
+=======================================================================
+
+This distribution contains first-party software and documentation developed
+for the HEAV3NS / LUMI-JOY project. The current project line is licensed under
+the Apache License, Version 2.0; see LICENSE. This NOTICE file is
+informational and does not modify that license.
+
+Project names, logos, icons, and other branding are addressed separately in
+TRADEMARKS.md. The Apache license does not grant trademark rights.
+
+Referenced projects and research:
+
+- The documentation acknowledges Hermes Agent and Nous Research as an
+  architectural and community reference. Hermes Agent is separately licensed
+  under its own MIT license. This acknowledgment is not a statement that all
+  repository code is derived from or redistributed from Hermes Agent.
+- The documentation records StateM and related workflow research as an
+  inspiration and evaluation reference. No endorsement or code-inclusion
+  statement is made by this notice.
+- The repository records the BroccoliDB dependency and migration history in
+  .wiki/ip/SOURCE-PROVENANCE.md. The dependency retains its own license and
+  notices.
+
+Additional dependency notices remain with the packages and assets that carry
+them. See THIRD-PARTY-NOTICES.md and package-lock.json.

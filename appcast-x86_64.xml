@@ -6,6 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://heav3ns.com/code</link>
     <description>Signed stable HEAV3NS-CODE updates</description>
     <item>
+      <title>HEAV3NS-CODE 15.0.3</title>
+      <sparkle:version>1503</sparkle:version>
+      <sparkle:shortVersionString>15.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 29 Oct 2026 18:21:54 +0000</pubDate>
+      <link>https://github.com/CardSorting/HEAV3NS-CODE-Releases/releases/tag/v15.0.3</link>
+      <description>HEAV3NS-CODE includes native automatic update checks, signed downloads, and safe restart handling. Save edits and finish active requests before installing. Your library stays on this Mac.</description>
+      <enclosure url="https://github.com/CardSorting/HEAV3NS-CODE-Releases/releases/download/v15.0.3/HEAV3NS-CODE-macOS-x86_64.zip" length="57916047" type="application/octet-stream" sparkle:edSignature="+KOadkzb1r6nzPJhLbXoHHQ8JpoAA7THYCH7uvLFPVSAewlH9kKv+jZ3XZzqIq9l1gurF3fwxh1f6SUPP32TDg=="></enclosure>
+    </item>
+    <item>
       <title>HEAV3NS-CODE 15.0.2</title>
       <sparkle:version>1502</sparkle:version>
       <sparkle:shortVersionString>15.0.2</sparkle:shortVersionString>
@@ -17,6 +27,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: /oYIEBqvJQqm94mdHWrsORvr7GfLE47IyyKVu3SUQKhQBDVeKHD8+zNr/71jYWdluFo4Q63zMSoY8my6VvLvDw==
-length: 1500
+edSignature: IhUxAl6fTsd7oaLSYWVhRz5CKO9BhKngVFy4MNlHGW6sHU5hhhtc0pWet2PBhItXBPwp3MGoO6kdpW3YTeHmAA==
+length: 2431
 -->
